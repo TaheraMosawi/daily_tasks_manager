@@ -20,7 +20,7 @@ git clone https://github.com/TaheraMosawi/daily_tasks_manager.git
 cd task-manager
 
 2- Run the script:
-python task_manager.py
+python daily_tasks_manager.py or python3 daily_tasks_manager.py
 
 ======= USAGE =======
 

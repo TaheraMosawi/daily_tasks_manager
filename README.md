@@ -16,7 +16,7 @@ Python 3.x
 > > > Installation
 
 1- Clone the repository:
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/TaheraMosawi/daily_tasks_manager.git
 cd task-manager
 
 2- Run the script:
